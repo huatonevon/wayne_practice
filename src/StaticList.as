@@ -15,7 +15,7 @@ package
 		public function StaticList()
 		{
 			var slist : SList = new SList();
-			
+			trace("ok")
 		}
 	}
 }
